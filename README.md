@@ -16,8 +16,8 @@
 
 ## Installation
 Use your favorite plugin manager
-* [vim-plug](https://github.com/junegunn/vim-plug): `Plug 'andweeb/presence.nvim'`
-* [packer.nvim](https://github.com/wbthomason/packer.nvim): `use 'andweeb/presence.nvim'`
+* [vim-plug](https://github.com/junegunn/vim-plug): `Plug 'SIGMazer/presence.nvim'`
+* [packer.nvim](https://github.com/wbthomason/packer.nvim): `use 'SIGMazer/presence.nvim'`
 
 #### Notes
 * Requires [Neovim 0.5](https://github.com/neovim/neovim/releases/tag/v0.5.0) or higher
